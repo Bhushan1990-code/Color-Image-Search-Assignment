@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Color Image Search</string>
+    <string name="app_no_internet_msg">Internet connection is required!</string>
+</resources>
